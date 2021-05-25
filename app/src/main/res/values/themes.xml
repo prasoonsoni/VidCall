@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.VidCall" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorAccent">@color/dark_blue</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">@color/dark_blue</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="button" parent="android:style/Widget.Button">
+        <item name="android:textSize">20dp</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="font">@font/roboto_light</item>
+        <item name="android:radius">15dp</item>
+    </style>
+
+    <style name="toolbarTitle">
+        <item name="font">@font/roboto</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+</resources>

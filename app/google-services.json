@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "440843000285",
+    "project_id": "vidcall-6267f",
+    "storage_bucket": "vidcall-6267f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440843000285:android:6f9b37d8f04fa55985fe34",
+        "android_client_info": {
+          "package_name": "com.prasoonsoni.vidcall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440843000285-chhlu9371b34hf9kh69ill778ugi29vo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCapzv9UnQ1KYTL5oNO9JARHcpvXUHNO8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440843000285-chhlu9371b34hf9kh69ill778ugi29vo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
